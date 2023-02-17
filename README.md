@@ -10,11 +10,24 @@ The PWM fan is controlled via the PWM signal coming from the ESP32. The ESP32 is
 The construction is made modular to enable easy printing and mounting. I used magnets to easily remove parts, not only for mounting, but also for cleaning. The fan fits a 120mm pipe. 
 
 
+## The results
+The fan in the bathroom
+
+<img src="Images/Douche_fan_result.jpg" alt="drawing" width="400"/>
+
+The ESP controlling the fan and the lights
+
+<img src="Images/ESP32_in_a_box.jpg" alt="drawing" width="400"/>
+
+The fan in line
+
+<img src="Images/in-line-fan.jpg" alt="drawing" width="400"/>
+
 
 ### Parts
 1 x ESP32
 
-<img src="Images/ESP32 wroom 32D.jpg" alt="drawing" width="400"/>
+<img src="Images/ESP32 wroom 32D.jpg" alt="drawing" width="300"/>
 
 1 x DHT22 or AM2302
 
