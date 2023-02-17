@@ -15,11 +15,11 @@ The fan in the bathroom
 
 <img src="Images/Douche_fan_result.jpg" alt="drawing" width="400"/>
 
-The ESP controlling the fan and the lights
+The ESP controlling the fan and the LEDs
 
 <img src="Images/ESP32_in_a_box.jpg" alt="drawing" width="400"/>
 
-The fan in line
+The fan in line with the ESP
 
 <img src="Images/in-line-fan.jpg" alt="drawing" width="400"/>
 
