@@ -87,10 +87,10 @@ Power the circuit only via 12V and run code updates via OTA and ESPHOME.
 ### ESPHOME Configuration
 ### ESPHome Configuration in Home Assistant
 Create a new ESPHOME device with this code:
-### Code
+## Code
 [Code in ESPHOME](code.vbs)
 
-### 3D printer files
+## 3D printer files
 [3D Printer files](3D_Printer_Files)
 #### ESP box
 
