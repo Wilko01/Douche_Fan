@@ -24,7 +24,7 @@ The fan in line with the ESP
 <img src="Images/in-line-fan.jpg" alt="drawing" width="400"/>
 
 
-### Parts
+## Parts
 1 x ESP32
 
 <img src="Images/ESP32 wroom 32D.jpg" alt="drawing" width="300"/>
@@ -67,7 +67,9 @@ Resistors
 60cm heatshrink tube to group the wires running thru the fan pipes
 
 Some small screws
+
 2 x M2 x 6 mm
+
 2 x M2 x 8 mm
 
 For the piping use 120 pipes to fit your needs
@@ -77,9 +79,9 @@ For the piping use 120 pipes to fit your needs
  
 Connector connections overview
 
-<img src="Images/Connector connections.jpg" alt="drawing" width="700"/>
+<img src="Images/ESP32_with_connectors.jpg" alt="drawing" width="700"/>
 
-•	Power the circuit only via 12V and run code updates via OTA and ESPHOME.
+Power the circuit only via 12V and run code updates via OTA and ESPHOME.
 
 
 ### ESPHOME Configuration
@@ -91,21 +93,31 @@ Create a new ESPHOME device with this code:
 ### 3D printer files
 [3D Printer files](3D_Printer_Files)
 #### ESP box
+
 1 x ESP bottom 01.stl
+
 1 x ESP Top 01.stl
+
 2 x ESP side long 01.stl
+
 1 x ESP side short cables in 01.stl
+
 1 x ESP side short USB side 01.stl
 
 #### Bathroom cover
 1 x Inner fan ceiling mount cover 02 curved edges yellow 1mm.stl
+
 1 x Inner fan ceiling mount cover matching the loose pipe model 04.stl
+
 1 x Inner fan ceiling mount loose pipe model 02.stl
+
 1 x Inner fan ceiling mount loose pipe of loose pipe model 02.stl
 
 
 #### 120mm connections in the pipes
 1 x Connection fan 03.stl
+
 1 x Connection fan extended 01.stl
+
 2 x Seal for fan 01.stl  to connect between the fan and the 3D printed parts
 
