@@ -30,7 +30,11 @@ wifi:
 
 captive_portal:
     
-
+# Add virtual switch to remotely restart the ESP via HA
+# https://esphome.io/components/switch/restart
+button:
+  - platform: restart
+    name: "ESP_fan-douche restart"
 
 #https://esphome.io/components/fan/speed.html
 output:
